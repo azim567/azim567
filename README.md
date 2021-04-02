@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Azim
 - 👀 I’m interested in open source projects
 - 🌱 I’m currently an Android developer
-- 💞️ I’m looking to collaborate in an interesting project
+- 💻 Youtuber
+- 💞️ Always ready to collaborate in an interesting project
 - 📫 How to reach me ...
 
 <!---
