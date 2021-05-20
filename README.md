@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azim
-- 🌱 I’m currently an Android developer
+- 🌱 Currently wok as an Android developer
 - 💻 Youtuber | Freelancer
 - 💞️ Always ready to collaborate in open source project
 - 📫 Follow me on Youtube @thecodingshef
